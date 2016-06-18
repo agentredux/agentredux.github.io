@@ -51,15 +51,6 @@ The rest of this paragraph is filler for the sake of seeing the text wrap around
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
 
-And now for a **massively large image**. It also has **no alignment**.
-
-<figure style="width: 1200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/image-alignment-1200x4002.jpg" alt="">
-  <figcaption>Massive image comment for your eyeballs.</figcaption>
-</figure> 
-
-The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
-
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/image-alignment-300x200.jpg" alt="">
   <figcaption>Feels good to be right all the time.</figcaption>
