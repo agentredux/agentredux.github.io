@@ -122,8 +122,9 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
-
+  (linkedin, $linkedin-color)
+  (reddit, #ff4500;);
+  
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
       background-color: $color;
